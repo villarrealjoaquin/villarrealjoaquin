@@ -2,9 +2,9 @@
 <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="center" style="width: 100%" />
 </div
 
-# <div align="center">Hi, I'm Joaquin Villarreal 😎</div>
+### <div align="center">Hi, I'm Joaquin Villarreal 😎</div>
 
----
+<br/>
 
 <p align="center">I am a passionate Full Stack developer with experience in creating web applications from front-end to back-end. I have skills in both client-side and server-side programming, and can create complete and functional solutions from scratch. I live in Argentina, where I'm a part of a vibrant technology community. I'm familiar with the challenges and opportunities that exist in the local IT industry, and I'm committed to continuing to develop my skills and knowledge to stay up-to-date with the latest trends and technologies.</p>
 
