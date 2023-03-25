@@ -1,5 +1,10 @@
+<div align="center">
+  <img src="https://tenor.com/es/view/coding-gif-18655255" align="center" style="width: 100%" />
+</div
+
 <h1 align="center">Hi 👋, I'm Joaquin Villarreal</h1>
-<h3 align="center">I am a passionate Full Stack developer with experience in creating web applications from front-end to back-end. I have skills in both client-side and server-side programming, and can create complete and functional solutions from scratch. I live in Argentina, where I'm a part of a vibrant technology community. I'm familiar with the challenges and opportunities that exist in the local IT industry, and I'm committed to continuing to develop my skills and knowledge to stay up-to-date with the latest trends and technologies.</h3>
+
+<h4 align="center">I am a passionate Full Stack developer with experience in creating web applications from front-end to back-end. I have skills in both client-side and server-side programming, and can create complete and functional solutions from scratch. I live in Argentina, where I'm a part of a vibrant technology community. I'm familiar with the challenges and opportunities that exist in the local IT industry, and I'm committed to continuing to develop my skills and knowledge to stay up-to-date with the latest trends and technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinmv1&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinmv1" /> </p>
 
