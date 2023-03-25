@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwLu8S6QxSSAh8EW3G1rqT7g" align="center" style="width: 100%" />
+<img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwLu8S6QxSSAh8EW3G1rqT7g" align="center" style="width: 50%" />
 </div>
 
 ### <div align="center">Hi, I'm Joaquin Villarreal 😎</div>
