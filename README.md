@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyanimelist.net%2Fforum%2F%3Ftopicid%3D1998770&psig=AOvVaw2KdK4i5Q8kwHiuxcSYZXMA&ust=1679799520455000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJiH6-bw9_0CFQAAAAAdAAAAABBi)" align="center" style="width: 100%" />
+<img src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwLu8S6QxSSAh8EW3G1rqT7g" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Hi, I'm Joaquin Villarreal 😎</div>
