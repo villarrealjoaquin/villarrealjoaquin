@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="center" style="width: 100" />
+<img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="center" style="width: 100%" />
 </div
-
----  
+  
+<br/>
 
 # <div align="center">Hi 👋, I'm Joaquin Villarreal</div>
 
