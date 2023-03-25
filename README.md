@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" align="center" style="width: 100%" />
 </div
 
-# <div align="center">Hi 👋, I'm Joaquin Villarreal</div>
+<h1 align="center">Hi, I'm Joaquin Villarreal 😎</h1>
 
 ---
 
