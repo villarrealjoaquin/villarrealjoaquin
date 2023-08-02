@@ -8,8 +8,6 @@
 
 <p align="center">I am a Full Stack developer with experience in creating web applications from front-end to back-end. I have skills in both client-side and server-side programming, and can create complete and functional solutions from scratch. I live in Argentina, where I'm a part of a vibrant technology community. I'm familiar with the challenges and opportunities that exist in the local IT industry, and I'm committed to continuing to develop my skills and knowledge to stay up-to-date with the latest trends and technologies.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinmv1&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinmv1" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquinmv1" alt="joaquinmv1" /></a> </p>
 
 
