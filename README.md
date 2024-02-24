@@ -18,11 +18,15 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,redis,prisma,docker,supabase" height=32 alt="Backend" />
 
+#### Other 
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,postman,figma" height=32 alt="others" />
+
 #### Currently Learning
 
-<p>Exploring AWS for certification 🚀</p>
-<p>Diving into data structures, algorithms, and testing methodologies 🤖</p>
-<p>Pattern designs</p>
+- Exploring AWS for certification 🚀
+- Diving into data structures, algorithms, and testing methodologies 🤖
+- Pattern designs 🎨
 
 #### Contact
 
@@ -31,8 +35,5 @@
 
 #### Portfolio
 
-Check out my portfolio [here](https://portfolio-joaquinmv1.vercel.app).
+💼 Check out my portfolio [here](https://portfolio-joaquinmv1.vercel.app).
 
-#### Other 
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,figma" height=32 alt="others" />
