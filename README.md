@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/20/70/f8/2070f812d6a581d5782c2df2f13165e8.gif" align="center" style="width: 100%" />
-</div>
-
 ### <div align="center">Hi, I'm Joaquin Villarreal 💜</div>
 
 <p align="center">A Software developer with over +1 year of experience, proficient in both front-end and back-end technologies.</p>
