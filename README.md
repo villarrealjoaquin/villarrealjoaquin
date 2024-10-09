@@ -4,7 +4,7 @@
 
 #### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js" height=32 alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,go" height=32 alt="Programming Languages" />
 
 #### Frontend Tecnologies
 
