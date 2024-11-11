@@ -29,7 +29,3 @@
 - 📧 Email: [villarrealjoaquin09@gmail.com](mailto:villarrealjoaquin09@gmail.com)
 - 📱 LinkedIn: [linkedin.com/in/joaquin-villarreal-248711236](https://www.linkedin.com/in/joaquin-villarreal-248711236/)
 
-#### Portfolio
-
-💼 Check out my portfolio [here](https://portfolio-joaquinmv1.vercel.app).
-
