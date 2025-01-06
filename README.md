@@ -1,6 +1,6 @@
 ### <div align="center">Hi, I'm Joaquin Villarreal 💜</div>
 
-<p align="center">A Software developer with over +1 year of experience, proficient in both front-end and back-end technologies.</p>
+<p align="center">A Software developer</p>
 
 #### Programming Languages
 
